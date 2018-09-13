@@ -1,0 +1,28 @@
+{
+  "name": "knota",
+  "version": "0.1.0",
+  "description": "A server app for creatives!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristoffenOSWorks/knota.git"
+  },
+  "keywords": [
+    "creative",
+    "authorship",
+    "design",
+    "planning"
+  ],
+  "author": "M. Gage Morgan, Christoffen",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/ChristoffenOSWorks/knota/issues"
+  },
+  "homepage": "https://github.com/ChristoffenOSWorks/knota#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
